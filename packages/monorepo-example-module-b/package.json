@@ -14,5 +14,6 @@
     "lerna-b"
   ],
   "author": "bingling",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "442537936b3ecc30691c8a5147f37ee130d68d6e"
 }

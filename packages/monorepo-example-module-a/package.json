@@ -11,5 +11,6 @@
     "monorepo-example-module-core": "^0.3.1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "442537936b3ecc30691c8a5147f37ee130d68d6e"
 }

@@ -1,6 +1,6 @@
 {
   "name": "monorepo-example-module-b",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "cross-env": "^6.0.3",
-    "monorepo-example-module-core": "^0.3.2"
+    "monorepo-example-module-core": "^0.3.3"
   },
   "keywords": [
     "lerna-b"

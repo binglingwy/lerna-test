@@ -2,5 +2,28 @@
   "packages": [
     "packages/*"
   ],
-  "version": "independent"
+  "version": "independent",
+  "changelog": {
+    "repo": "binglingwy/lerna-test",
+    "cacheDir": ".changelog",
+    "labels": {
+      "PR: Breaking Change :boom:": ":boom: Breaking Change",
+      "PR: New Feature :rocket:": ":rocket: New Feature",
+      "PR: Bug Fix :bug:": ":bug: Bug Fix",
+      "PR: Docs :memo:": ":memo: Documentation",
+      "PR: Internal :house:": ":house: Internal",
+      "PR: Performance :running_woman:": ":running_woman: Performance"
+    }
+  },
+  "command": {
+    "publish": {
+      "ignoreChanges": [
+        "*.md",
+        "*.txt",
+        "test/**",
+        "# We ignore every JSON file, except for built-in-modules, built-ins and plugins defined in babel-preset-env/data.",
+        "@(!(built-in-modules|built-ins|plugins|package)).json"
+      ]
+    }
+  }
 }

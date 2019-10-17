@@ -1,2 +1,2 @@
 // const core = require('monorepo-example-module-core');
-console.log('enhanced module-a-bugfix new -5');
+console.log('enhanced module-a-bugfix new -6');

@@ -2,7 +2,7 @@
   "packages": [
     "packages/*"
   ],
-  "version": "independent",
+  "version": "0.3.6",
   "changelog": {
     "repo": "binglingwy/lerna-test",
     "cacheDir": ".changelog",

@@ -1,8 +1,8 @@
 {
+  "version": "0.3.13",
   "packages": [
     "packages/*"
   ],
-  "version": "0.3.13",
   "changelog": {
     "repo": "binglingwy/lerna-test",
     "cacheDir": ".changelog",

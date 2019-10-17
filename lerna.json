@@ -18,7 +18,8 @@
   "command": {
     "publish": {
       "ignoreChanges": [
-        "*.md"
+        "*.md",
+        "*.json"
       ]
     }
   }

@@ -1,5 +1,4 @@
 node_modules/
-.changelog/
 lerna-debug.log
 
 .idea

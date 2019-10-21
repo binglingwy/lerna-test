@@ -1,6 +1,6 @@
 {
   "name": "monorepo-example-module-core",
-  "version": "0.3.4",
+  "version": "0.1.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,5 @@
   "dependencies": {
     "cross-env": "^6.0.3"
   },
-  "gitHead": "442537936b3ecc30691c8a5147f37ee130d68d6e"
+  "gitHead": "0e6967af45030c16780749566e8a3d38e039af82"
 }

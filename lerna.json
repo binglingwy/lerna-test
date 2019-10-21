@@ -1,8 +1,8 @@
 {
+  "version": "0.1.2",
   "packages": [
     "packages/*"
   ],
-  "version": "independent",
   "changelog": {
     "repo": "binglingwy/lerna-test",
     "cacheDir": ".changelog",
@@ -19,10 +19,7 @@
     "publish": {
       "ignoreChanges": [
         "*.md",
-        "*.txt",
-        "test/**",
-        "# We ignore every JSON file, except for built-in-modules, built-ins and plugins defined in babel-preset-env/data.",
-        "@(!(built-in-modules|built-ins|plugins|package)).json"
+        "*.json"
       ]
     }
   }

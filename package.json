@@ -1,7 +1,17 @@
 {
   "name": "root",
   "private": true,
+  "scripts": {
+    "c": "git-cz"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-lerna-changelog"
+    }
+  },
   "devDependencies": {
+    "commitizen": "^4.0.3",
+    "cz-lerna-changelog": "^2.0.2",
     "lerna": "^3.17.0",
     "lerna-changelog": "^0.8.2"
   }

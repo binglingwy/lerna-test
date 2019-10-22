@@ -10,8 +10,7 @@
     }
   },
   "devDependencies": {
-    "commitizen": "^4.0.3",
-    "cz-lerna-changelog": "^2.0.2",
-    "lerna": "^3.18.1"
+    "lerna": "^3.18.1",
+    "lerna-changelog": "^0.8.2"
   }
 }

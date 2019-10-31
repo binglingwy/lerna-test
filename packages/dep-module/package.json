@@ -1,15 +1,15 @@
 {
-  "name": "monorepo-example-module-a",
-  "version": "0.1.6",
+  "name": "dep-module",
+  "version": "0.1.8",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "cross-env": "^6.0.3"
   },
-  "author": "",
-  "license": "ISC",
-  "gitHead": "6adcfc6032b9ecb681d6c13d7ca9dc647e8f7595"
+  "gitHead": "64bfda13274b8f97459462608427678413bfcc31"
 }

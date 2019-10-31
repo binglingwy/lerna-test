@@ -1,5 +1,5 @@
 {
-  "name": "monorepo-example-module-b",
+  "name": "module-b",
   "version": "0.1.8",
   "description": "",
   "main": "index.js",
@@ -15,5 +15,5 @@
   ],
   "author": "bingling",
   "license": "ISC",
-  "gitHead": "863350fe9ef558a9b9b616b13b4f9d1275c9dcbe"
+  "gitHead": "64bfda13274b8f97459462608427678413bfcc31"
 }

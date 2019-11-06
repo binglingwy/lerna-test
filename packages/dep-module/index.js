@@ -1,1 +1,1 @@
-console.log('fixed core change 25')
+console.log('fixed core change 26')
